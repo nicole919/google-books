@@ -1,0 +1,10 @@
+.books-title,
+.books-author,
+.books-desc {
+  text-align: center;
+}
+
+.books-desc {
+  border-bottom: 1px solid gray;
+  padding-bottom: 20px;
+}

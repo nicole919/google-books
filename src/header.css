@@ -1,0 +1,11 @@
+.header {
+  background-color: black;
+  width: 100%;
+  height: 100px;
+}
+
+.headerTitle {
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+}
